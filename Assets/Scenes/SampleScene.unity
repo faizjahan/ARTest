@@ -157,7 +157,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ab0e80cee9cc1d44928bfe488dd1e2d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_PointCloudPrefab: {fileID: 157808797844020937, guid: a7444141475c3264091a352b7fb72556, type: 3}
+  m_PointCloudPrefab: {fileID: 0}
 --- !u!114 &202429075
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -170,7 +170,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1760703bbd54c04488a8d10600262ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_PlanePrefab: {fileID: 7255190571701122843, guid: 09d9db8c48221b3469da8836ae477b5a, type: 3}
+  m_PlanePrefab: {fileID: 0}
   m_DetectionMode: -1
 --- !u!114 &202429076
 MonoBehaviour:
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   instantiatedObject: {fileID: 0}
-  placedPrefab: {fileID: 7894673745586032504, guid: c36c8630922f9ed41b277a44f49ceadd, type: 3}
+  placedPrefab: {fileID: 5305034868383115044, guid: 71be93f0b83176141a6a117e64b8440c, type: 3}
   rayManager: {fileID: 202429078}
 --- !u!114 &202429080
 MonoBehaviour:
@@ -564,7 +564,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!65 &1788953858
 BoxCollider:
   m_ObjectHideFlags: 0

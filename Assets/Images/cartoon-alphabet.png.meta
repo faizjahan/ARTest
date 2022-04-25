@@ -1,0 +1,1416 @@
+fileFormatVersion: 2
+guid: 8963a2b970c77864a900f31cb891efad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2001710991992632206
+    second: cartoon-alphabet_0
+  - first:
+      213: 6409516167531880208
+    second: cartoon-alphabet_1
+  - first:
+      213: 3782032575047287829
+    second: cartoon-alphabet_2
+  - first:
+      213: 7009684247512202890
+    second: cartoon-alphabet_3
+  - first:
+      213: -7092022559914809760
+    second: cartoon-alphabet_4
+  - first:
+      213: -7072240754170357788
+    second: cartoon-alphabet_5
+  - first:
+      213: 8171423793885857402
+    second: cartoon-alphabet_6
+  - first:
+      213: -1879606095514464674
+    second: cartoon-alphabet_7
+  - first:
+      213: -3158620140434449247
+    second: cartoon-alphabet_8
+  - first:
+      213: -4068159282709291554
+    second: cartoon-alphabet_9
+  - first:
+      213: 1526095909724604559
+    second: cartoon-alphabet_10
+  - first:
+      213: -3061065353034801382
+    second: cartoon-alphabet_11
+  - first:
+      213: 4932524205113575811
+    second: cartoon-alphabet_12
+  - first:
+      213: -6202191989532473951
+    second: cartoon-alphabet_13
+  - first:
+      213: -8030690115988508888
+    second: cartoon-alphabet_14
+  - first:
+      213: 1125142784576360636
+    second: cartoon-alphabet_15
+  - first:
+      213: -5727611493824839889
+    second: cartoon-alphabet_16
+  - first:
+      213: 1527360246865140403
+    second: cartoon-alphabet_17
+  - first:
+      213: 1039048936606813253
+    second: cartoon-alphabet_18
+  - first:
+      213: -171241005770418939
+    second: cartoon-alphabet_19
+  - first:
+      213: -2579712026575974312
+    second: cartoon-alphabet_20
+  - first:
+      213: -7831484896815200428
+    second: cartoon-alphabet_21
+  - first:
+      213: -3686706452210474782
+    second: cartoon-alphabet_22
+  - first:
+      213: 7630579809150551826
+    second: cartoon-alphabet_23
+  - first:
+      213: 457089845081927415
+    second: cartoon-alphabet_24
+  - first:
+      213: 5833861481693398824
+    second: cartoon-alphabet_25
+  - first:
+      213: -7842165275335221692
+    second: cartoon-alphabet_26
+  - first:
+      213: -3329845648718437362
+    second: cartoon-alphabet_27
+  - first:
+      213: 6545456782797296463
+    second: cartoon-alphabet_28
+  - first:
+      213: -4711295516769387010
+    second: cartoon-alphabet_29
+  - first:
+      213: -4199107018678953854
+    second: cartoon-alphabet_30
+  - first:
+      213: -3777880920406722637
+    second: cartoon-alphabet_31
+  - first:
+      213: 5249923404360858505
+    second: cartoon-alphabet_32
+  - first:
+      213: -4375559648023633086
+    second: cartoon-alphabet_33
+  - first:
+      213: 9008769822720352760
+    second: cartoon-alphabet_34
+  - first:
+      213: 763460671583692395
+    second: cartoon-alphabet_35
+  - first:
+      213: -7373690474701209426
+    second: cartoon-alphabet_36
+  - first:
+      213: 374790839422331806
+    second: cartoon-alphabet_37
+  - first:
+      213: -6184777929299398972
+    second: cartoon-alphabet_38
+  - first:
+      213: -3753377738570595738
+    second: cartoon-alphabet_39
+  - first:
+      213: -2525220817122501324
+    second: cartoon-alphabet_40
+  - first:
+      213: -536844497441228950
+    second: cartoon-alphabet_41
+  - first:
+      213: -1240999208198858826
+    second: cartoon-alphabet_42
+  - first:
+      213: 6059707958796722513
+    second: cartoon-alphabet_43
+  - first:
+      213: 5232457106071203867
+    second: cartoon-alphabet_44
+  - first:
+      213: -8369738027105501506
+    second: cartoon-alphabet_45
+  - first:
+      213: 5960432785751059391
+    second: cartoon-alphabet_46
+  - first:
+      213: 1356549672977672790
+    second: cartoon-alphabet_47
+  - first:
+      213: -1631962043748755705
+    second: cartoon-alphabet_48
+  - first:
+      213: -9043278448755968902
+    second: cartoon-alphabet_49
+  - first:
+      213: -888583211397171163
+    second: cartoon-alphabet_50
+  - first:
+      213: 6393884944433436294
+    second: cartoon-alphabet_51
+  - first:
+      213: 28630739623595370
+    second: cartoon-alphabet_52
+  - first:
+      213: 4055660026373226974
+    second: cartoon-alphabet_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cartoon-alphabet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2084
+        width: 305
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cc843557e7834e0800000000000000
+      internalID: -2001710991992632206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_1
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2084
+        width: 248
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f5cdbcefc23f850800000000000000
+      internalID: 6409516167531880208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_2
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 2108
+        width: 231
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51446a4c69a7c7430800000000000000
+      internalID: 3782032575047287829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_3
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2109
+        width: 217
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ebd982fa6674160800000000000000
+      internalID: 7009684247512202890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_4
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 2108
+        width: 269
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066a8319e03149d90800000000000000
+      internalID: -7092022559914809760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_5
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 2108
+        width: 213
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e792a1218a5add90800000000000000
+      internalID: -7072240754170357788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_6
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 2108
+        width: 255
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76cdbf75aab66170800000000000000
+      internalID: 8171423793885857402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_7
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 2108
+        width: 227
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e8337f63c4ae5e0800000000000000
+      internalID: -1879606095514464674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_8
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 2108
+        width: 232
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac9205a7b35a24d0800000000000000
+      internalID: -3158620140434449247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_9
+      rect:
+        serializedVersion: 2
+        x: 2882
+        y: 2108
+        width: 218
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd9768bfaefa87c0800000000000000
+      internalID: -4068159282709291554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1601
+        width: 235
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88cf40f428cd2510800000000000000
+      internalID: 1526095909724604559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_11
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1601
+        width: 165
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fda169749e485d0800000000000000
+      internalID: -3061065353034801382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_12
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1601
+        width: 282
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3898fc381a8d37440800000000000000
+      internalID: 4932524205113575811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_13
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1601
+        width: 253
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5c4230f336de9a0800000000000000
+      internalID: -6202191989532473951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_14
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1601
+        width: 198
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fa34f43e14d8090800000000000000
+      internalID: -8030690115988508888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_15
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1601
+        width: 65
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0944cb66f4d9f00800000000000000
+      internalID: 1125142784576360636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_16
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1839
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f302b41bf6380b0800000000000000
+      internalID: -5727611493824839889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_17
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1601
+        width: 201
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba137e5d06423510800000000000000
+      internalID: 1527360246865140403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_18
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1866
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c42b2b0817b6e00800000000000000
+      internalID: 1039048936606813253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_19
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 1601
+        width: 254
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505d2186631af9df0800000000000000
+      internalID: -171241005770418939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_20
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 1601
+        width: 191
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850d2296495033cd0800000000000000
+      internalID: -2579712026575974312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_21
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1522
+        width: 212
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4574e75baf9f05390800000000000000
+      internalID: -7831484896815200428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_22
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1601
+        width: 63
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0aad4c30036dcc0800000000000000
+      internalID: -3686706452210474782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_23
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1530
+        width: 125
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217cfaa68e345e960800000000000000
+      internalID: 7630579809150551826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1098
+        width: 221
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7feeb86dac8e75600800000000000000
+      internalID: 457089845081927415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_25
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1098
+        width: 63
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8274b25cb1a06f050800000000000000
+      internalID: 5833861481693398824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_26
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1106
+        width: 292
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e9dbd4b380b2390800000000000000
+      internalID: -7842165275335221692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_27
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1105
+        width: 319
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04e14756030ac1d0800000000000000
+      internalID: -3329845648718437362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_28
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1108
+        width: 235
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43dd4fb34226da50800000000000000
+      internalID: 6545456782797296463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_29
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1106
+        width: 197
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdf11360bd1e9eb0800000000000000
+      internalID: -4711295516769387010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_30
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1109
+        width: 305
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2889ac11a66c9b5c0800000000000000
+      internalID: -4199107018678953854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_31
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 1109
+        width: 234
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b77e67a155429bc0800000000000000
+      internalID: -3777880920406722637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_32
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 1108
+        width: 226
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b30fe55897bd840800000000000000
+      internalID: 5249923404360858505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_33
+      rect:
+        serializedVersion: 2
+        x: 2885
+        y: 1030
+        width: 218
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243a40ecea3e643c0800000000000000
+      internalID: -4375559648023633086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 593
+        width: 316
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1618a5c64950d70800000000000000
+      internalID: 9008769822720352760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_35
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 511
+        width: 214
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b662ab19f6b589a00800000000000000
+      internalID: 763460671583692395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_36
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 593
+        width: 248
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0c0cba4936ba990800000000000000
+      internalID: -7373690474701209426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_37
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 593
+        width: 161
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ba6d06846833500800000000000000
+      internalID: 374790839422331806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_38
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 593
+        width: 229
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ceee6ddd314b2aa0800000000000000
+      internalID: -6184777929299398972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_39
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 592
+        width: 170
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66204a045d259ebc0800000000000000
+      internalID: -3753377738570595738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_40
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 593
+        width: 260
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dddf7cb0d94fcd0800000000000000
+      internalID: -2525220817122501324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_41
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 593
+        width: 162
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67746e16cebc88f0800000000000000
+      internalID: -536844497441228950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_42
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 593
+        width: 259
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b714c49bc517cee0800000000000000
+      internalID: -1240999208198858826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_43
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 593
+        width: 197
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151afa66848681450800000000000000
+      internalID: 6059707958796722513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 261
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10b7d5e30c6d9840800000000000000
+      internalID: 5232457106071203867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 91
+        width: 195
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe3c4feb97b8db80800000000000000
+      internalID: -8369738027105501506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_46
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 91
+        width: 379
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbba846f906b7b250800000000000000
+      internalID: 5960432785751059391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_47
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 91
+        width: 302
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65aa1028dbe63d210800000000000000
+      internalID: 1356549672977672790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_48
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 91
+        width: 232
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7075f6fea2b1a59e0800000000000000
+      internalID: -1631962043748755705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_49
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 91
+        width: 197
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7474f80a22df7280800000000000000
+      internalID: -9043278448755968902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_50
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 91
+        width: 237
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528bb43f64e1ba3f0800000000000000
+      internalID: -888583211397171163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_51
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 0
+        width: 226
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6865caf0b74abb850800000000000000
+      internalID: 6393884944433436294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_52
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 91
+        width: 249
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dcbe88187b56000800000000000000
+      internalID: 28630739623595370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-alphabet_53
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 91
+        width: 343
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed14ab16e49984830800000000000000
+      internalID: 4055660026373226974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
