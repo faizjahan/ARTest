@@ -7,8 +7,8 @@ using UnityEngine.InputSystem;
 
 public class PlaceOnPlane : MonoBehaviour
 {
-    public GameObject instantiatedObject;
-    public GameObject placedPrefab;
+    public GameObject instantiatedObject;//Parent for the instantiated game objects
+    public GameObject placedPrefab;//Objects to place
     Pose addedPose;
     public ARRaycastManager rayManager;
     Vector2 touchPos;

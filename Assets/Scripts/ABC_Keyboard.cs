@@ -12,10 +12,12 @@ public class ABC_Keyboard : MonoBehaviour
     [SerializeField] private GameObject[] buttonObject;
 
     [SerializeField] private Sprite[] alphabetImage;
+    [SerializeField] private Sprite[] pictureImage;
     private string[] alphabetText = {"Apple", "Ball", "Cat", "Dog", "Elephant","Fish", "Giraffee","Horse", "Icecream", "Joker",
                                                       "Kite", "Lion", "Monkey", "Nest","Owl","Penquin","Queen", "Rainbow", "Sun",
                                                       "Train","Umbrella","Violin","Watch","Xray","Yak","Zebra"};
     public Image imageContainer;
+    public Image pictureContainer;
     public GameObject textPanel;
     public Text textContainer;
     public GameObject objectContainer;
@@ -40,9 +42,11 @@ public class ABC_Keyboard : MonoBehaviour
         GameObject obj = Instantiate(buttonObject[i], objectContainer.transform);
 
         imageContainer.gameObject.SetActive(true);
+        pictureContainer.gameObject.SetActive(true);
         textPanel.gameObject.SetActive(true);
 
         imageContainer.sprite = alphabetImage[i];
+        pictureContainer.sprite = pictureImage[i];
         textContainer.text = alphabetText[i];
     }
 
